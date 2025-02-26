@@ -113,7 +113,6 @@ const App = () => {
         <div className="flex gap-[10px]">
           <h1
             className="text-[30px] hidden lg:block font-bold"
-            onClick={handleClick}
           >
             TodoList With SWAGGER
           </h1>
